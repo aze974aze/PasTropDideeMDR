@@ -1,0 +1,4 @@
+token: ""
+channel id: ""
+ping id: ""
+file name: "list.txt"
